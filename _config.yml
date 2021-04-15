@@ -29,7 +29,7 @@ github_username:  Brodyzera
 
 permalink: pretty
 
-theme: just-the-docs
+remote_theme:  pmarsceill/just-the-docs
 
 # Enable or disable the site search
 # Supports true (default) or false
